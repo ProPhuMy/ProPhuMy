@@ -1,5 +1,5 @@
 ## Hello
-Still a high school student
+Still a high school student 🥺🥺🥺
 
 ![Adding pics cause why not](https://media.istockphoto.com/id/592031250/photo/milky-way-and-pink-light-at-mountains-night-colorful-landscape.jpg?s=612x612&w=0&k=20&c=MlBuwRU4M-eZda80ONcdV9NbwtyJQrvggug31A6vLJU=)
 
