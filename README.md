@@ -3,8 +3,7 @@ I'm still a high school student. I code because I got no other hobbies to do. I 
 
 ## Some shit to make this profile a bit livelier:
 - I'm learning other languages other than Python at the moment.
-- If you want to collaborate, please don't contact me. I don't think I will be willing to do something as a team at the moment
-- Fun fact: I like cats. Yeah that's it.
+- Fun fact: I like cats... Yeah that's it.
 ![Adding pics cause why not](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphoto.znews.vn%2Fw960%2FUploaded%2Fmfnuy%2F2024_10_21%2Fi.ytimg.com_vi_mpdaqm58i8_hq720.jpg&f=1&nofb=1&ipt=f4c1f3c7c53c11dd3c1be7fdc9483de97db0aa6279bd55eb4a0f55c3c525c088)
 
 <!--
