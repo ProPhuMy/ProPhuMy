@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I think I'm a magnet for cats. Honestly I'm not complaning
 
 <p align="center">
-  <img src="https://wallpapers.com/images/high/cute-cat-eyes-profile-picture-uq3edzmg1guze2hh.webp" alt="cat" width="300"/>
+  <img src="https://drive.google.com/file/d/1OliMeuLuWf1iyOsrDaslWN02hcVywIdR/view?usp=sharing" alt="cat"/>
 </p>
 
 <h2 align = "center"><strong> Tech stack</strong></h2>
