@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ProPhuMy</h1>
-<h3 align="center">A high school student who codes useful things during free time</h3>
+<h3 align="center">A high school student who codes useful things during free time, driven by the desire to escape from everyday life and immerse in the world of programming and technology.</h3>
 
 ### About Me
-- 🎓 Senior high school student
-- 🧭 Finished college admission, now spending time building small apps that are actually useful for me or people around me
+- 🎓 Senior high school student at VNUHCM - High School for the Gifted
+- 📚 Finished college admission, now spending time building small apps that are actually useful for me or people around me
 - 🎯 Goal: I want to become a programmer specializing in artificial intelligence. I want to help shape AI development so it benefits humans, not harms them.
 - 🌱 I’m currently learning Javascript for web development, next up would be Rust 
 - 🔭 I’m currently working on a real-time screen translator app that will help me read mangas or manwhas that haven't been translated yet.
