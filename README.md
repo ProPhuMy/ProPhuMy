@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I think I'm a magnet for cats. Honestly I'm not complaning
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1OliMeuLuWf1iyOsrDaslWN02hcVywIdR/view?usp=sharing" alt="cat"/>
+  <img src="https://raw.githubusercontent.com/prophumy/prophumy/main/IMG_3756.JPG" alt="cat" width = 600/>
 </p>
 
 <h2 align = "center"><strong> Tech stack</strong></h2>
