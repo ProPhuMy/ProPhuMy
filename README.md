@@ -7,7 +7,7 @@
 - 🎯 Goal: I want to become a programmer specializing in artificial intelligence. I want to help shape AI development so it benefits humans, not harms them.
 - 🌱 I’m currently learning Javascript for web development, next up would be Rust 
 - 🔭 I’m currently working on a real-time screen translator app that will help me read mangas or manwhas that haven't been translated yet.
-- 👨‍💻 All of my projects are available at [nhphong.com](https://nhphong.com "My portfolio")
+- 👨‍💻 My portfolio is available at [nhphong.com](https://nhphong.com "My portfolio")
 - ⚡ Fun fact: I think I'm a magnet for cats. Honestly I'm not complaning
 
 <p align="center">
